@@ -1,2 +1,0 @@
-# Reloj
-Reloj sin textos.
